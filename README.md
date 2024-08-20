@@ -10,7 +10,7 @@ A Passionate Full-stack Developer specialized in scalable web & mobile developme
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=superredstar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=superbluestar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 <!-- <p align = "center"> -->
 <!--   <img style="display: none;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperBluestar&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27"> -->
