@@ -4,19 +4,19 @@
 <img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
 </p>
 
-<h2 align="center">Who is Superbluestar🥇?</h2>
+<h2 align="center">Who is SuperRedStar🥇?</h2>
 <p>
-Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
+A Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=superredstar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 <!-- <p align = "center"> -->
 <!--   <img style="display: none;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperBluestar&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27"> -->
 <!-- </p> -->
 <p align="center">
-  <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="superredstar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=superredstar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
@@ -24,11 +24,11 @@ Passionate Full-stack Developer specialized in scalable web & mobile development
 
 ### Skills
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
-- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs, SpringBoot, ASP.NET, FastAPI, Flask
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
-- 📫 Interesting & Learning : OpenCV, DL/ML and AI, LLM
-- Infura: AWS, GCP, Azure, Firebas, Supabase, Digital Ocean
+- 🔭 Backend : CI, Laravel, Django, Flask, FastAPI, Express, Loopback, Nestjs, SpringBoot, ASP.NET, Gin
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Aurora, CosmosDB
+- 💬 Language : HTML, CSS, Javascript, Typescript, Node, Python, PHP, Go, Dart, SQL
+- 📫 Interesting & Learning : OpenCV, DL/ML and AI, LLM, OpenAI, GenAI
+- Infura: AWS, GCP, Azure, Firebas, Supabase, Digital Ocean, Vercel
 
 ### Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -72,7 +72,7 @@ Passionate Full-stack Developer specialized in scalable web & mobile development
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 <!--
-**SuperBluestar/SuperBluestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**superredstar/superredstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
