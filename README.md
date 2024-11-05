@@ -25,10 +25,11 @@ A Passionate Full-stack Developer specialized in scalable web & mobile developme
 ### Skills
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
 - 🔭 Backend : CI, Laravel, Django, Flask, FastAPI, Express, Loopback, Nestjs, SpringBoot, ASP.NET, Gin
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Aurora, CosmosDB
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Aurora, CosmosDB, Pinecone
 - 💬 Language : HTML, CSS, Javascript, Typescript, Node, Python, PHP, Go, Dart, SQL
 - 📫 Interesting & Learning : OpenCV, DL/ML and AI, LLM, OpenAI, GenAI
 - Infura: AWS, GCP, Azure, Firebas, Supabase, Digital Ocean, Vercel
+- Blockchain: Hardhat, Truffle, Cargo, Anchor, Bankrun, Subgraph, Jito, Alchemy
 
 ### Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
